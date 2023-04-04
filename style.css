@@ -31,3 +31,14 @@ p{
     from{box-shadow:3px 3px 30px rgba(153,5,72,1);}
     to{box-shadow:3px 3px 30px rgba(8,119,118,1);}
 }
+#tempo{
+    float: right;
+    margin-right: 20px;
+    font-size: 45px;
+    color: darkmagenta;
+}
+#pontos{
+    margin-left: 20px;
+    font-size: 45px;
+    color: lightblue;
+}
